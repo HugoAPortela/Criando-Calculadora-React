@@ -43,5 +43,5 @@ O projeto foi criado para eu poder começar a trabalhar com o JSX, entender como
 
 ## :man_technologist: Redes Sociais
 
-* [instagram](https://www.instagram.com/devsp011/)
-* [Linkedin](https://www.linkedin.com/in/vitor-sampaio-4532451a7/)
+* [instagram](https://www.instagram.com/hugoaportela)
+* [Linkedin](https://www.linkedin.com/in/hugo-portela0611)
